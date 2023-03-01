@@ -7,4 +7,4 @@
 * 이준우(jwoo428):
 * 정태주(LegendCat08):
 * 유진호(sunmulim):
-* 차승우(DoIBaKi):
+* 차승우(DolBaKi):
