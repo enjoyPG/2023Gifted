@@ -4,3 +4,8 @@
 * 
   제작한 코드 : https://github.com/python-programmer1512/pytorch_deeplearning_porject
   
+  논문 코드 : https://github.com/python-programmer1512/thesis
+  
+  
+  데이터 파일 : 
+  
