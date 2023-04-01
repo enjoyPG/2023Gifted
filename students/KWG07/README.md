@@ -7,5 +7,4 @@
   논문 코드 : https://github.com/python-programmer1512/thesis
   
   
-  데이터 파일 : 
-  
+  데이터 파일 :  https://drive.google.com/drive/folders/11hXu-gP5VJs6Nv8_SRDzQ1edhEzQpVid?usp=sharing
