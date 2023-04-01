@@ -2,7 +2,7 @@
 
 #### 논문 제목: 데이터 개수가 적은 상황에서의 한국 상품 이미지 분류 성능 개선을 위한 딥러닝 기반의 도메인 일반화 연구
 
-* MixStyle ResNet 코드: 
+* MixStyle ResNet 코드: [Load_ResNet.ipynb](./Load_ResNet.ipynb)
 
 #### 데이터 세트 설명
 
