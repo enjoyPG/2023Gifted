@@ -1,5 +1,11 @@
 #### 차승우 머신러닝
 
+* 교재 : 혼자 공부하는 머신러닝 + 딥러닝
+
+
+* 저자 깃허브 : https://github.com/rickiepark/hg-mldl
+
+
 * 날마다 배운 내용
   * 3월
     * 2일 : 데이터 전처리 이해
@@ -13,4 +19,7 @@
   * 4월
     * 8일 : 8-2까지 코드작성
     * 9일 : CNN(합성곱 뉴럴 네트워크) 복습 후 코드작성
+
+
+![image](https://user-images.githubusercontent.com/86885220/230771924-b77944c2-38f3-43f0-9517-d15eda1b5f72.png)
 
