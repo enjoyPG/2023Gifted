@@ -4,7 +4,7 @@
 * 
   제작한 코드 : https://github.com/python-programmer1512/pytorch_deeplearning_porject
   
-  논문 코드 : https://github.com/python-programmer1512/thesis
+  논문 코드 : https://github.com/python-programmer1512/Domain_Generalization_Image_Classification
   
   
   데이터 파일 :  https://drive.google.com/drive/folders/11hXu-gP5VJs6Nv8_SRDzQ1edhEzQpVid?usp=sharing
