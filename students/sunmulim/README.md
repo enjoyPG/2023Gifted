@@ -10,3 +10,4 @@
 * https://github.com/sunmulim/-/blob/main/7-1.ipynb 7-1
 * https://github.com/sunmulim/-/blob/main/7-2.ipynb 7-2
 * https://github.com/sunmulim/-/blob/main/7-3.ipynb 7-3
+* https://github.com/sunmulim/-/blob/main/8-2.ipynb 8-2
