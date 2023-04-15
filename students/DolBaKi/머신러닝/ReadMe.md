@@ -19,6 +19,7 @@
   * 4월
     * 8일 : 8-2까지 코드작성
     * 9일 : CNN(합성곱 뉴럴 네트워크) 복습 후 코드작성
+    * 15일 : 벡터회귀 코드
 
 
 ![image](https://user-images.githubusercontent.com/86885220/230771924-b77944c2-38f3-43f0-9517-d15eda1b5f72.png)
