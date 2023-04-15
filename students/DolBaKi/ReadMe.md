@@ -2,7 +2,7 @@
 
 * 자료
   * 김성훈 교수 강의 : https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
-  * 2023사사과정 : https://쌤.com/영재
+  * 2023사사과정 : http://xn--xx4b.com/%ec%98%81%ec%9e%ac/
 
 * 폴더설명
   * 머신러닝 : 혼공머신 책을 기반으로 코딩함.  기간<3월~>
