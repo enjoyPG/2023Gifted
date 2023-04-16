@@ -1,5 +1,9 @@
 #### 차승우 폴더
 
+* 혼자 공부하는 머신러닝 정리파일
+  * 링크 : https://docs.google.com/document/d/1Id-M-6cl7HoCYRNE4pTqCVgbSXGbAReuN9kyvOv0fdg/edit?usp=sharing
+  * 내용 정리한 것들 피드백 부탁드려요!
+
 * 자료
   * 김성훈 교수 강의 : https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
   * 2023사사과정 : http://xn--xx4b.com/%ec%98%81%ec%9e%ac/
