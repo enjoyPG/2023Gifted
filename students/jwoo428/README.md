@@ -8,3 +8,6 @@
 * 20230308 트리와 앙상블
 * 20230311 군집알고리즘(중반에 약간의 오류가 있었음)(최종에서 해결)
 * ~20230319 주성분분석
+
+발표...
+https://docs.google.com/document/d/1345_d34Fr_P-J2D0Zsv4qEaVUaAtqmmPNf3r5L8MSko/edit?usp=sharing
