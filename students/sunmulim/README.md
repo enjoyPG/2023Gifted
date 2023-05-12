@@ -5,7 +5,7 @@
 * https://github.com/sunmulim/-/blob/main/3-1.ipynb (3-1 최근접 이웃회귀,과대적합,과소적합)
 * https://github.com/sunmulim/-/blob/main/3-2.ipynb 3-2
 * https://github.com/sunmulim/-/blob/main/3-3.ipynb 3-3
-* https://github.com/sunmulim/-/blob/main/4-1.ipynb 4-1
+* https://github.com/sunmulim/-/blob/main/4-1.ipynb 4-1 발표
 * https://github.com/sunmulim/-/blob/main/4-2.ipynb 4-2
 * https://github.com/sunmulim/-/blob/main/7-1.ipynb 7-1
 * https://github.com/sunmulim/-/blob/main/7-2.ipynb 7-2
@@ -13,4 +13,4 @@
 * https://github.com/sunmulim/-/blob/main/8-2.ipynb 8-2
 * https://github.com/sunmulim/-/blob/main/8-3.ipynb 8-3
 
-https://github.com/sunmulim/-/blob/main/4-1.ipynb
+
