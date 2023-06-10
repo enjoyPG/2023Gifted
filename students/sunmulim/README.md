@@ -6,8 +6,7 @@
 * https://github.com/sunmulim/-/blob/main/3-2.ipynb 3-2
 * https://github.com/sunmulim/-/blob/main/3-3.ipynb 3-3
 * https://github.com/sunmulim/-/blob/main/4-1.ipynb 4-1 발표
-* https://github.com/sunmulim/-/blob/main/4-2-2.ipynb4-2 발표자요
-[* https://github.com/sunmulim/-/blob/main/4-2.ipynb](https://github.com/sunmulim/-/blob/main/4-2.%EB%B0%9C%ED%91%9C
+* https://github.com/sunmulim/-/blob/main/4-2-2.ipynb 4-2 발표자요
 * https://github.com/sunmulim/-/blob/main/7-1.ipynb 7-1
 * https://github.com/sunmulim/-/blob/main/7-2.ipynb 7-2
 * https://github.com/sunmulim/-/blob/main/7-3.ipynb 7-3
