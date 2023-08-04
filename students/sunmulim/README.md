@@ -14,3 +14,4 @@
 * https://github.com/sunmulim/-/blob/main/8-3.ipynb 8-3
 
  https://github.com/sunmulim/-/blob/main/PyTorch_Image_Classification_Fine_Tuning.ipynb 파이토치
+ https://github.com/sunmulim/-/blob/main/Untitled18.ipynb 6장
