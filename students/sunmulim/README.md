@@ -15,3 +15,4 @@
 
  https://github.com/sunmulim/-/blob/main/PyTorch_Image_Classification_Fine_Tuning.ipynb 파이토치
  https://github.com/sunmulim/-/blob/main/Untitled18.ipynb 6장
+ https://github.com/sunmulim/-/blob/main/DreamBooth_Stable_Diffusion_Fine_tuning_for_a_Dog_(2).ipynb 0806
