@@ -1,0 +1,6 @@
+train: ../train/images
+valid: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['dongseok', 'gongyou', 'other']
