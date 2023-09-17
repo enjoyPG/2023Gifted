@@ -1,0 +1,5 @@
+train: yolo5_dataset_krunker/train/images
+val: yolo5_dataset_krunker/train/images
+
+nc 3
+names [0,1,2]
