@@ -1,0 +1,5 @@
+train: /content/YOLO-Datasets/mask_wearing_dataset/train/images
+val: /content/YOLO-Datasets/mask_wearing_dataset/valid/images
+
+nc: 2
+names: ['enemy', 'team']
