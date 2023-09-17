@@ -8,3 +8,6 @@
   
   
   데이터 파일 :  https://drive.google.com/drive/folders/11hXu-gP5VJs6Nv8_SRDzQ1edhEzQpVid?usp=sharing
+
+
+  yolo5 영상 : https://drive.google.com/file/d/1KiUF8UT2HqxXQyljdJ4Ljx0cvO2-zd5_/view?usp=sharing
