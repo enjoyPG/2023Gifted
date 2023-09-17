@@ -1,5 +1,5 @@
 train: ../train/images
 test: ../test/images
 
-nc: 2
-names: ['pikachu', 'eve']
+nc: 3
+names: ['lion', 'tiger', 'other']
