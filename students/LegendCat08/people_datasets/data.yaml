@@ -1,5 +1,0 @@
-train: /content/Test/people_datasets/train/images
-val: /content/Test/people_datasets/valid/images
-
-nc: 3
-names: ['jeongeun', 'jaein','other']
