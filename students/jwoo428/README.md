@@ -10,4 +10,4 @@
 * ~20230319 주성분분석
 
 발표...
-https://docs.google.com/document/d/1345_d34Fr_P-J2D0Zsv4qEaVUaAtqmmPNf3r5L8MSko/edit?usp=sharing
+https://colab.research.google.com/drive/1955HoHzf6gaWGFtfjjgdEAHAGp8mX0-i#scrollTo=WslpJf5OjFwQ&uniqifier=1
