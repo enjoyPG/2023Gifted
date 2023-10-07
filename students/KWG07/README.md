@@ -14,4 +14,4 @@
 
   yolo5 colab : https://colab.research.google.com/drive/1DqtQuOLLoV9CHS1wVJeeV34rx-OTobSt?usp=sharing
 
-  yolo5 youtube : [https://www.youtube.com/watch?v=ip6BywGNSC8&t=3s](https://www.youtube.com/watch?v=ip6BywGNSC8)https://www.youtube.com/watch?v=ip6BywGNSC8
+  yolo5 youtube : https://www.youtube.com/watch?v=ip6BywGNSC8
