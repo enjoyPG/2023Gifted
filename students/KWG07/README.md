@@ -13,3 +13,5 @@
   yolo5 영상 : https://drive.google.com/file/d/1KiUF8UT2HqxXQyljdJ4Ljx0cvO2-zd5_/view?usp=sharing
 
   yolo5 colab : https://colab.research.google.com/drive/1DqtQuOLLoV9CHS1wVJeeV34rx-OTobSt?usp=sharing
+
+  yolo5 youtube : [https://www.youtube.com/watch?v=ip6BywGNSC8&t=3s](https://www.youtube.com/watch?v=ip6BywGNSC8)https://www.youtube.com/watch?v=ip6BywGNSC8
